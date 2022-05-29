@@ -1,3 +1,3 @@
 From openjdk:11
-copy ./target/demo-0.0.1-SNAPSHOT.jar demo-0.0.1-SNAPSHOT.jar
-CMD ["java","-jar","demo-0.0.1-SNAPSHOT.jar"]
+copy ./target/spring-boot-azure-demoo-0.0.1-SNAPSHOT.jar spring-boot-azure-demoo-0.0.1-SNAPSHOT.jar
+CMD ["java","-jar","spring-boot-azure-demoo-0.0.1-SNAPSHOT.jar"]
