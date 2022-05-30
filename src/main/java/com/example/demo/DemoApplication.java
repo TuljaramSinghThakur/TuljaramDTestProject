@@ -11,7 +11,7 @@ public class DemoApplication {
 
 	@GetMapping("/message")
 	public String message(){
-		return "Spring Boot Test4 Azure Demo. -- updated QA ";
+		return "Spring Boot Test4 Azure Demo. -- updated Full deployment ";
 	}
 
 	public static void main(String[] args) {
