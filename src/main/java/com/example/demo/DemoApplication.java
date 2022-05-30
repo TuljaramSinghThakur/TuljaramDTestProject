@@ -11,7 +11,7 @@ public class DemoApplication {
 
 	@GetMapping("/message")
 	public String message(){
-		return "Spring Boot Test3 Azure Demo - task1 branch. ";
+		return "Spring Boot Test3 Azure Demo - task1 branch -- updated ";
 
 	}
 
